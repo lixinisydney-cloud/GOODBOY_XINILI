@@ -4,6 +4,8 @@ MA Computational Arts
 Goldsmiths, University of London  
 2026
 
+The exhibited version used the physical leash as the primary interaction trigger. Face-start and mouse input are included in the submitted build as fallback testing modes so the interaction can be demonstrated without the physical hardware.
+
 ## Project Overview
 GOOD BOY is an interactive installation exploring how systems shape bodily behaviour through space.
 
